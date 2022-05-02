@@ -1,0 +1,2 @@
+# Hand-Written-Digit-Recognition-Using-Classical-Machine-Learning-Algorithms-and-Deep-Learning-Algorit
+• Algorithms of Support Vector Machines (both linear Kernel and RBF Kernel), Neural Networks and Convolutional Neural Networks were used for the task of Digit Classification. • Accuracy of 98.49 percent was achieved by using the Convolutional Neural Network Model with a time span of 100 seconds per epoch for one iteration over dataset for training the model • Implemented the model for recognizing the digits from a video in real time using OpenCV library
